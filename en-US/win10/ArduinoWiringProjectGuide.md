@@ -21,7 +21,7 @@ Open Visual Studio. Select File -> New Project -> Visual C++ -> Windows -> Windo
 
 ## Change the Default Controller Driver
 
-You will need to be running the Direct Memory Mapped Driver to write Arduino Wiring solutions! Refer to the [Lightning Setup Guide]({{site.baseurl}}/{{page.lang}}/win10/LightningSetup.htm) for instructions!
+You will need to be running the Direct Memory Mapped Driver to write Arduino Wiring solutions! Refer to the [Lightning Setup Guide](https://ms-iot.github.io/content/en-US/win10/LightningSetup.htm) for instructions!
 
 ## Windows IoT Core Insider Preview required
 Arduino Wiring app support is currently included only in the Insider Preview builds for Windows IoT Core.
